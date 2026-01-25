@@ -12,7 +12,7 @@
 
 ## Table of Contents
 * [Purpose](#purpose)
-* [Things Related to Your Application](#Things-Related-to-Your-Application)
+* [Strengthening Your Application](#Strengthening-Your-Application)
     * [Portfolio Project Architecture](#portfolio-project-architecture)
     * [Algorithm Mastery](#algorithm-mastery)
 * [Professional Networking](#professional-networking)
