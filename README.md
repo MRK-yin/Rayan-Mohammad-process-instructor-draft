@@ -64,3 +64,5 @@ The current job market for entry-level software development roles is oversaturat
 1] Exponent, "A Comprehensive Guide to Getting a Referral for Your Tech Job," TryExponent Blog, 2024. [Online]. Available: https://www.tryexponent.com/blog/guide-to-tech-job-employee-referral. [Accessed: Jan. 24, 2026].
 
 [2] Roadmap.sh, "50 Popular Backend Developer Interview Questions and Answers," Roadmap.sh, 2026. [Online]. Available: https://roadmap.sh/questions/backend. [Accessed: Jan. 24, 2026].
+
+674+623=697
