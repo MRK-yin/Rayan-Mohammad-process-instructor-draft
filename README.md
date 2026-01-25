@@ -27,13 +27,13 @@
 The current job market for entry-level software development roles is oversaturated due to over hiring, AI, and many other factors. Your extensive knowledge in the many different aspects and parts of back-end systems is crucial to standing out in the current market as an Applied Computing or Computer Science student. Following this guide is extremely important because it will show you how to stand out in today's intense job market.
 
 
-## Strengthening Your Application
+## Showing Employers You Are Serious
 
-### Projects
+### High Impact Portfolio Projects
 **Why:** Personal projects demonstrate to recruiters that you can navigate the challenges of building functional, real-world software beyond classroom constraints.
 **Command:** Build and document at least two full-stack applications on GitHub, ensuring each includes a comprehensive README and clean commit history.
 
-### Algorithm Mastery
+### Open Source Contributions
 **Why:** Consistent practice with data structures and algorithms prepares you for the high-pressure environment of technical interviews.
 **Command:** Complete three LeetCode problems weekly, focusing on "Medium" difficulty topics like Dynamic Programming or Graph Theory.
 
