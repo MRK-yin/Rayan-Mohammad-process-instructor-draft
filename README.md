@@ -1,16 +1,18 @@
 # Rayan-Mohammad-process-instructor-draft
 
-# Strategic Approach to Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
+# Strategic Plan for Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
+
 **Prepared by:** Mohammad Rayan
+
 **Date:** January 23, 2026
 
 ---
 
 ## Table of Contents
 * [Purpose](#purpose)
-* [Technical Skill Development](#technical-skill-development)
+* [Things Related to Your Application](#Things-Related-to-Your-Application)
     * [Portfolio Project Architecture](#portfolio-project-architecture)
     * [Algorithm Mastery](#algorithm-mastery)
 * [Professional Networking](#professional-networking)
@@ -22,11 +24,10 @@
 ---
 
 ## Purpose
-[I will write this 5-sentence paragraph for you once you give me your job title.]
+The current job market for entry-level software development roles is oversaturated due to over hiring, AI, and many other factors. Your extensive knowledge in the many different aspects and parts of back-end systems is crucial to standing out in the current market as an Applied Computing or Computer Science student. Following this guide is extremely important because it will show you how to stand out in today's intense job market.
 
----
 
-## Technical Skill Development
+## Things Related to Your Application
 
 ### Portfolio Project Architecture
 **Why:** Personal projects demonstrate to recruiters that you can navigate the challenges of building functional, real-world software beyond classroom constraints.
