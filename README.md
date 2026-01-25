@@ -37,6 +37,12 @@ The current job market for entry-level software development roles is oversaturat
 **Why:** Consistent practice with data structures and algorithms prepares you for the high-pressure environment of technical interviews.
 **Command:** Complete three LeetCode problems weekly, focusing on "Medium" difficulty topics like Dynamic Programming or Graph Theory.
 
+## Applying and Beyond
+
+### Networking to Get In
+
+### Algorithmic Interview Proficiency
+
 
 ---
 
