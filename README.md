@@ -15,9 +15,9 @@
 * [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
     * [High Impact Portfolio Projects](#High-Impact-Porfolio-Projects)
     * [Open Source Contributions](#Open-Source-Contributions)
-* [Professional Networking](#professional-networking)
-    * [Strategic LinkedIn Engagement](#strategic-linkedin-engagement)
-    * [Informational Interviewing](#informational-interviewing)
+* [Applying and Beyond](#Applying-and-Beyond)
+    * [Networking to Get In](#Networking-to-Get-In)
+    * [Algorithmic Interview Proficiency](#Algorithmic-Interview-Proficiency)
 * [Visual Process Roadmap](#visual-process-roadmap)
 * [References](#references)
 
@@ -37,7 +37,6 @@ The current job market for entry-level software development roles is oversaturat
 **Why:** Consistent practice with data structures and algorithms prepares you for the high-pressure environment of technical interviews.
 **Command:** Complete three LeetCode problems weekly, focusing on "Medium" difficulty topics like Dynamic Programming or Graph Theory.
 
-[... More sections here ...]
 
 ---
 
