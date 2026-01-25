@@ -27,7 +27,7 @@
 The current job market for entry-level software development roles is oversaturated due to over hiring, AI, and many other factors. Your extensive knowledge in the many different aspects and parts of back-end systems is crucial to standing out in the current market as an Applied Computing or Computer Science student. Following this guide is extremely important because it will show you how to stand out in today's intense job market.
 
 
-## Things Related to Your Application
+## Strengthening Your Application
 
 ### Portfolio Project Architecture
 **Why:** Personal projects demonstrate to recruiters that you can navigate the challenges of building functional, real-world software beyond classroom constraints.
