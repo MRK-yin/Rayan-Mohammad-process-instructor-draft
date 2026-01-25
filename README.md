@@ -30,8 +30,9 @@ The current job market for entry-level software development roles is oversaturat
 ## Showing Employers You Are Serious
 
 ### High Impact Portfolio Projects
-**Why:** Personal projects demonstrate to recruiters that you can navigate the challenges of building functional, real-world software beyond classroom constraints.
-**Command:** Build and document at least two full-stack applications on GitHub, ensuring each includes a comprehensive README and clean commit history.
+**Why:** Personal projects Show recruiters and employers many things including your willingness to take things from theory to application, working outside the classroom, and as a proof of work that you are capable of executing concepts of theory to practical products. Once recruiters and employers see that you have multiple projects in your portfolio it shows them you are a serious candidate that is capable of working with APIs, databases, and backend system architecture.
+
+**My Advice:** My advice for you is to pick two unique problems that you yourself are going through or people around you and think of a technical solution that could could solve this problem. Once you do this get started abnd build out your product and finally ensure your project is "recruiter-ready" by including a markdown which explains the APIs, code, and the logic you used to buid the app.
 
 ### Open Source Contributions
 **Why:** Consistent practice with data structures and algorithms prepares you for the high-pressure environment of technical interviews.
