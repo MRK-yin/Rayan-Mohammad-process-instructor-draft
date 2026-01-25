@@ -12,9 +12,9 @@
 
 ## Table of Contents
 * [Purpose](#purpose)
-* [Strengthening Your Application](#Strengthening-Your-Application)
-    * [Portfolio Project Architecture](#portfolio-project-architecture)
-    * [Algorithm Mastery](#algorithm-mastery)
+* [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
+    * [High Impact Portfolio Projects](#High-Impact-Porfolio-Projects)
+    * [Open Source Contributions](#Open-Source-Contributions)
 * [Professional Networking](#professional-networking)
     * [Strategic LinkedIn Engagement](#strategic-linkedin-engagement)
     * [Informational Interviewing](#informational-interviewing)
@@ -29,7 +29,7 @@ The current job market for entry-level software development roles is oversaturat
 
 ## Strengthening Your Application
 
-### Portfolio Project Architecture
+### Projects
 **Why:** Personal projects demonstrate to recruiters that you can navigate the challenges of building functional, real-world software beyond classroom constraints.
 **Command:** Build and document at least two full-stack applications on GitHub, ensuring each includes a comprehensive README and clean commit history.
 
