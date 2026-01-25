@@ -1,6 +1,6 @@
 # Rayan-Mohammad-process-instructor-draft
 
-# [Your Specific Title - e.g., Roadmap to Software Engineering]
+# Strategic Approach to Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a [Job Title]  
 **Prepared by:** [Your Name]  
