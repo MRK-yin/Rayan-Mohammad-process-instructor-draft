@@ -54,7 +54,8 @@ The current job market for entry-level software development roles is oversaturat
 ---
 
 ## Visual Process Roadmap
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f08a9b6e-9fd6-4754-bdc0-0138e8856d7c" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1782c6aa-c253-4de9-9c43-5ebc91710e55" />
+
 
 
 ---
