@@ -2,9 +2,9 @@
 
 # Strategic Approach to Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
 
-**Prepared for:** Husky student pursuing a job as a [Job Title]  
-**Prepared by:** [Your Name]  
-**Date:** January 24, 2026
+**Prepared for:** Husky student pursuing a job as a Back-End Developer
+**Prepared by:** Mohammad Rayan
+**Date:** January 23, 2026
 
 ---
 
