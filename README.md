@@ -28,9 +28,12 @@ The entry-level software development market is currently filled with large volue
 ## Showing Employers You Are Serious
 
 ### High Impact Portfolio Projects
-**Why:** Personal projects Show recruiters and employers many things including your willingness to take things from theory to application, working outside the classroom, and as a proof of work that you are capable of executing concepts of theory to practical products. Once recruiters and employers see that you have multiple projects in your portfolio it shows them you are a serious candidate that is capable of working with APIs, databases, and backend system architecture.
+Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them you are a candidate that is capable of working with APIs, databases, and back-end systems.To do this:
 
-**Command:** My advice for you is to pick two unique problems that you yourself are going through or people around you and think of a technical solution that could could solve this problem. Once you do this get started abnd build out your product and finally ensure your project is "recruiter-ready" by including a markdown which explains the APIs, code, and the logic you used to buid the app.
+•**Select** two distinctive back-end problems, such as [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Real-Time Notification Service](https://www.geeksforgeeks.org/system-design-notification-service/), and develop a technical solution.
+
+
+
 
 ### Open Source Contributions
 **Why:** Contributing to open source projects and communities is a way to show employers and recruiters that you can work in a professional setting. Your contributions show that you can understand problems that aren't yours as well as having collaboration skills which are necessary to work with others.
