@@ -1,5 +1,3 @@
-# Rayan-Mohammad-process-instructor-draft
-
 # Strategic Plan for Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
