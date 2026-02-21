@@ -1,4 +1,4 @@
-# Strategic Plan for Back-End Engineering: A Roadmap for Applied Computing and Computer Science Students
+# Action Plan for Securing a Back-End Engineering Role: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
 
@@ -11,7 +11,7 @@
 ## Table of Contents
 * [Purpose](#purpose)
 * [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
-    * [High Impact Portfolio Projects](#High-Impact-Porfolio-Projects)
+    * [High Impact Portfolio Projects](#high-impact-portfolio-projects)
     * [Open Source Contributions](#Open-Source-Contributions)
 * [Applying and Beyond](#Applying-and-Beyond)
     * [Networking to Get In](#Networking-to-Get-In)
