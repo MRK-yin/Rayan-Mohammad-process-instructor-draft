@@ -22,7 +22,7 @@
 ---
 
 ## Purpose
-The current job market for entry-level software development roles is oversaturated due to over hiring, AI, and many other factors. Your extensive knowledge in the many different aspects and parts of back-end systems is crucial to standing out in the current market as an Applied Computing or Computer Science student. Following this guide is extremely important because it will show you how to stand out in today's intense job market.
+The entry-level software development market is currently filled with large voluems of applications and demanding technical standards. This guide serves as a strategic roadmap for you as Applied Computing and Computer Science students to build a competitive presence that will make them stand out. It covers how you can develop  high-impact portfolio projects, contributions to open-source communities, networking strategies via Husky Handshake, and mastery of algorithmic interview patterns. The purpose of this document is to give you actionable steps for securing a back-end engineering role by demonstrating verified technical competency and architectural understanding.
 
 
 ## Showing Employers You Are Serious
