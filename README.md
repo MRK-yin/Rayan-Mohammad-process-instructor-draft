@@ -36,8 +36,8 @@ Select two distinctive back-end problems, such as [Scalable Authentication Syste
 
 
 ### Open Source Contributions
-**Why:** Contributing to open source projects and communities is a way to show employers and recruiters that you can work in a professional setting. Your contributions show that you can understand problems that aren't yours as well as having collaboration skills which are necessary to work with others.
-**Command:** My advice for you is to look for active and well known repositories on GitHub, look for tags like “good first issue” or “help wanted,” and start with beginner fixes and work your way up until you can mention notable contributions that you made on your portfolio.
+Contributing to open source projects and communities shows recruiters that you can work in a professional collaborative setting. Your contributions to others projects and solving those problems highlight your ability to understand  others problems that aren't yours as well as being capable of collaborating with others, both skills which are sought in developers. To do this:
+Identify active repositories on GitHub by filtering for * **Filter** issues using the [“good first issue”](https://github.com/topics/good-first-issue) or [“help wanted”](https://github.com/topics/help-wanted) tags to find accessible entry points. GOOD First Issue or [Help Wanted] tags. tags like “good first issue” or “help wanted,” and start with beginner fixes and work your way up until you can mention notable contributions that you made on your portfolio.
 
 ## Applying and Beyond
 
