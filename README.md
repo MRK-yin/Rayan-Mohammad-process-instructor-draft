@@ -16,7 +16,7 @@
 * [Open Source Contributions](#open-source-contributions)
 * [Applying and Beyond](#applying-and-beyond)
 * [Networking to Get In](#networking-to-get-in)
-* [Algorithmic Interview Proficiency](algorithmic-interview-proficiency)
+* [Algorithmic Interview Proficiency](#algorithmic-interview-proficiency)
 * [Visual Process Roadmap](#visual-process-roadmap)
 * [References](#references)
 
