@@ -1,8 +1,8 @@
-
-
-> **Prepared for:** Husky student pursuing a job as a Back-End Developer  
-> **Prepared by:** Mohammad Rayan  
-> **Date:** January 23, 2026
+# Action Plan for Securing a Back-End Engineering Role: A Roadmap for Applied
+Computing and Computer Science Students
+**Prepared for:** Husky student pursuing a job as a Back-End Developer
+**Prepared by:** Mohammad Rayan
+**Date:* 2
 
 ---
 
