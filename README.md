@@ -2,7 +2,7 @@
 Computing and Computer Science Students
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
 **Prepared by:** Mohammad Rayan
-**Date:* 2
+**Date:* 2/16/26
 
 ---
 
