@@ -42,9 +42,10 @@ Identify active repositories on GitHub by filtering for issues using the [“goo
 ## Applying and Beyond
 
 ### Networking to Get In
-**Why** Automated screening processes, which eliminate hundreds of candidates before even reviewing their applications, are becoming a thing with almost every job you apply to. One way to bypass your application being thrown out the window by an algorithm before being reviewed by a human is through a personal referral. A personal referral from a person working at the company serves as a trusted path to a recruiter, as current employees of the company vouch for you to have the role. Having this professional connection can also give you knowledge on what the company looks for in applicants, which can allow you to prepare for the interview accordingly.
+ATS (applicant tracking systems) have been integrated into most companies in order to  automate the screening processes, eliminating majority of applicants before their applications receive human review. A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections, you should:
 
-**Command** My advice is for you to connect with alumni, people you know personally, or people on either LinkedIn or Husky Handshake to schedule a brief chat where you can request a personal referral and discuss other points, which will help you have a higher chance of being selected for an interview, as well as helping you prepare more effectively for your interview.
+Identify and connect with alumni and industry workers through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/). 
+
 
 ### Algorithmic Interview Proficiency
 
