@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://images.stockcake.com/public/c/e/b/cebc0766-7dad-409f-ab4c-e032318f0491_large/coding-on-screen-stockcake.jpg" width="100%">
+<img src="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" width="100%">
 
 # Action Plan for Securing a Back-End Engineering Role: A Roadmap for Applied Computing and Computer Science Students
 
