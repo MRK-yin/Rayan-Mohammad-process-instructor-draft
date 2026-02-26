@@ -1,9 +1,7 @@
-<img src="https://images.stockcake.com/canvas/1715694857/coding-on-screen_1480579_1161110.jpg" alt="Coding on Screen" width="100%">
-
 <div align="center">
 
-<img src="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" width="100%" height="200px" style="object-fit: cover;">
 
+<img src="https://images.stockcake.com/canvas/1715694857/coding-on-screen_1480579_1161110.jpg" alt="Coding on Screen" width="100%">
 # BEST PRACTICES FOR ASPIRING BACK-END SOFTWARE ENGINEERS
 
 > **Prepared for:** Husky student pursuing a job as a Back-End Developer  
