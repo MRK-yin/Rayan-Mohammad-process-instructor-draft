@@ -53,7 +53,9 @@ ATS (applicant tracking systems) have been integrated into most companies in ord
 Massive volumes of applications have led to employers increasing the technical difficulty of interview rounds. Mastering Data Structures and Algorithms (DSA) will be your biggest competitive advantage to succeed in highly selective technical interviews. To ensure you can solve complex problems with accuracy and efficiency:
 
 • Dedicate daily time to solving [LeetCode](https://leetcode.com/problemset/all/) and [NeetCode Roadmap](https://neetcode.io/roadmap). 
+
 • Focus on back-end heavy concepts like Hash Table [Hash Table Problems](https://leetcode.com/problem-list/hash-table/) and Strings. [String Manipulation Problems](https://leetcode.com/problem-list/string/). 
+
 • Explain the logic behind your code orally while solving problems to prepare for real interview situations.
 
 
