@@ -74,4 +74,4 @@ Massive volumes of applications have led to employers increasing the technical d
 
 [2] Roadmap.sh, "50 Popular Backend Developer Interview Questions and Answers," Roadmap.sh, 2026. [Online]. Available: https://roadmap.sh/questions/backend. [Accessed: Jan. 24, 2026].
 
-674+623=697
+recalculate wordcount
