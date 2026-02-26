@@ -54,7 +54,7 @@ Massive volumes of applications have led to employers increasing the technical d
 
 * Dedicate daily time to solving [LeetCode](https://leetcode.com/problemset/all/) and [NeetCode Roadmap](https://neetcode.io/roadmap). 
 
-* Focus on back-end heavy concepts like Hash Table [Hash Table Problems](https://leetcode.com/problem-list/hash-table/) and Strings. [String Manipulation Problems](https://leetcode.com/problem-list/string/). 
+* Focus on back-end heavy concepts like [Hash Table Problems](https://leetcode.com/problem-list/hash-table/) and [String Manipulation Problems](https://leetcode.com/problem-list/string/). 
 
 * Explain the logic behind your code orally while solving problems to prepare for real interview situations.
 
