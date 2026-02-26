@@ -1,3 +1,5 @@
+<div align="center">
+
 # From Student to Back-End Developer:: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
