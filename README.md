@@ -57,7 +57,7 @@ Massive volumes of applications have led to employers increasing the technical d
 
 * Focus on back-end heavy concepts like [Hash Table Problems](https://leetcode.com/problem-list/hash-table/) and [String Manipulation Problems](https://leetcode.com/problem-list/string/). 
 
-* Explain the logic behind your code orally while solving problems to prepare for real interview situations [4].
+* Explain the logic behind your code orally while solving problems to prepare for real interview situations.
 
 
 
