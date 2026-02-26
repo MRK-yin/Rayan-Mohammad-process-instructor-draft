@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://images.stockcake.com/public/c/e/b/cebc0766-7dad-409f-ab4c-e032318f0491_large/coding-on-screen-stockcake.jpg" width="100%">
-<img src="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" width="100%">
 
 # Action Plan for Securing a Back-End Engineering Role: A Roadmap for Applied Computing and Computer Science Students
 
@@ -15,12 +11,12 @@
 
 ## Table of Contents
 * [Purpose](#purpose)
-* [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
-    * [High Impact Portfolio Projects](#high-impact-portfolio-projects)
-    * [Open Source Contributions](#Open-Source-Contributions)
-* [Applying and Beyond](#Applying-and-Beyond)
-    * [Networking to Get In](#Networking-to-Get-In)
-    * [Algorithmic Interview Proficiency](#Algorithmic-Interview-Proficiency)
+* [Showing Employers You Are Serious](#showing-employers-you-are-serious)
+* [High Impact Portfolio Projects](#high-impact-portfolio-projects)
+* [Open Source Contributions](#open-source-contributions)
+* [Applying and Beyond](#applying-and-beyond)
+* [Networking to Get In](#networking-to-get-in)
+* [Algorithmic Interview Proficiency](algorithmic-interview-proficiency)
 * [Visual Process Roadmap](#visual-process-roadmap)
 * [References](#references)
 
