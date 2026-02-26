@@ -8,12 +8,6 @@
 
 ---
 
-</div>
-
----
-
----
-
 ## Table of Contents
 * [Purpose](#purpose)
 * [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
