@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="https://images.stockcake.com/canvas/1715694857/coding-on-screen_1480579_1161110.jpg" width="100%">
+<img src="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" width="100%" height="200px" style="object-fit: cover;">
 
-<table>
-  <tr>
-    <td background="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" align="center">
-      <br>
-      <h1>BEST PRACTICES FOR ASPIRING BACK-END SOFTWARE ENGINEERS</h1>
-      <p><b>Prepared for:</b> Husky student pursuing a job as a Back-End Developer</p>
-      <p><b>Prepared by:</b> Mohammad Rayan</p>
-      <p><b>Date:</b> January 23, 2026</p>
-      <br>
-    </td>
-  </tr>
-</table>
+# BEST PRACTICES FOR ASPIRING BACK-END SOFTWARE ENGINEERS
+
+> **Prepared for:** Husky student pursuing a job as a Back-End Developer  
+> **Prepared by:** Mohammad Rayan  
+> **Date:** January 23, 2026
+
+---
 
 </div>
 
