@@ -42,16 +42,22 @@ Identify active repositories on GitHub by filtering for issues using the [“goo
 ## Applying and Beyond
 
 ### Networking to Get In
-ATS (applicant tracking systems) have been integrated into most companies in order to  automate the screening processes, eliminating majority of applicants before their applications receive human review. A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections, you should:
+ATS (applicant tracking systems) have been integrated into most companies in order to  automate the screening processes, eliminating majority of applicants before their applications receive human review [3]. A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections, you should:
 
-Identify and connect with alumni and industry workers through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/). 
+• Identify and connect with alumni and industry workers through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/).
+• Ask for a brief chat to discuss the company’s  culture, technical infrastructure, and back-end technology stack.
+• Request a referral to increase your application’s visibility and reduce the chance of it being filtered out by applicant tracking systems.
 
 
 ### Algorithmic Interview Proficiency
+Massive volumes of applications have led to employers increasing the technical difficulty of interview rounds. Mastering Data Structures and Algorithms (DSA) will be your biggest competitive advantage to succeed in highly selective technical interviews. To ensure you can solve complex problems with accuracy and efficiency:
 
-**Why** As the number of jobs decreases and the number of applicants increases, the way employers are selecting candidates is by ramping up the difficulty of technical interview questions. You are expected to solve extremely complex problems under a limited amount of time. Mastering Data Structures and Algorithms (DSA) is the way you will be able to crack these types of rounds. At times, even the most impressive resume projects might not land you a role, but demonstrating that you can solve dynamic programming problems on strings, trees, and graphs, for example, can be the way to secure your selection.
+• Dedicate daily time to solving [LeetCode](https://leetcode.com/problemset/all/) and [NeetCode Roadmap](https://neetcode.io/roadmap). 
+• Focus on back-end heavy concepts like Hash Table [Hash Table Problems](https://leetcode.com/problem-list/hash-table/) and Strings. [String Manipulation Problems](https://leetcode.com/problem-list/string/). 
+• Explain the logic behind your code orally while solving problems to prepare for real interview situations.
 
-**Command** Dedicate a minimum of one hour per day to solving medium- to hard-level LeetCode problems, focusing specifically on back-end-heavy patterns like HashMaps, Graph Traversal, and other intense back-end data structures and algorithms concepts. Once you can proficiently do those, the next step is to orally explain the logic behind your code, which is extremely helpful for real interview situations.
+
+
 
 ---
 
