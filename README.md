@@ -44,9 +44,9 @@ Identify active repositories on GitHub by filtering for issues using the [“goo
 ### Networking to Get In
 ATS (applicant tracking systems) have been integrated into most companies in order to  automate the screening processes, eliminating majority of applicants before their applications receive human review [3]. A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections, you should:
 
-• Identify and connect with alumni and industry workers through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/).
-• Ask for a brief chat to discuss the company’s  culture, technical infrastructure, and back-end technology stack.
-• Request a referral to increase your application’s visibility and reduce the chance of it being filtered out by applicant tracking systems.
+* Identify and connect with alumni and industry workers through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/).
+* Ask for a brief chat to discuss the company’s  culture, technical infrastructure, and back-end technology stack.
+* Request a referral to increase your application’s visibility and reduce the chance of it being filtered out by applicant tracking systems.
 
 
 ### Algorithmic Interview Proficiency
