@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://images.stockcake.com/canvas/1715694857/coding-on-screen_1480579_1161110.jpg" alt="Coding on Screen" width="100%">
 
 # From Student to Back-End Developer:: A Roadmap for Applied Computing and Computer Science Students
 
