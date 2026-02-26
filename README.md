@@ -1,14 +1,23 @@
 <div align="center">
-<img src="https://images.stockcake.com/public/c/e/b/cebc0766-7dad-409f-ab4c-e032318f0491_large/coding-on-screen-stockcake.jpg" alt="Coding on Screen" width="100%"> 
-<img src="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" alt="White Texture Background" width="100%">
 
-# From Student to Back-End Developer:: A Roadmap for Applied Computing and Computer Science Students
+<img src="https://images.stockcake.com/canvas/1715694857/coding-on-screen_1480579_1161110.jpg" width="100%">
 
-**Prepared for:** Husky student pursuing a job as a Back-End Developer
+<table>
+  <tr>
+    <td background="https://www.publicdomainpictures.net/pictures/120000/velka/white-texture-background.jpg" align="center">
+      <br>
+      <h1>BEST PRACTICES FOR ASPIRING BACK-END SOFTWARE ENGINEERS</h1>
+      <p><b>Prepared for:</b> Husky student pursuing a job as a Back-End Developer</p>
+      <p><b>Prepared by:</b> Mohammad Rayan</p>
+      <p><b>Date:</b> January 23, 2026</p>
+      <br>
+    </td>
+  </tr>
+</table>
 
-**Prepared by:** Mohammad Rayan
+</div>
 
-**Date:** January 23, 2026
+---
 
 ---
 
