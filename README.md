@@ -22,15 +22,15 @@
 ---
 
 ## Purpose
-The entry-level software development market is currently filled with large voluems of applications and demanding technical standards. This guide serves as a strategic roadmap for you as Applied Computing and Computer Science students to build a competitive presence that will make them stand out. It covers how you can develop  high-impact portfolio projects, contributions to open-source communities, networking strategies via Husky Handshake, and mastery of algorithmic interview patterns. The purpose of this document is to give you actionable steps for securing a back-end engineering role by demonstrating verified technical competency and architectural understanding.
+The entry-level software development market is currently filled with large amounts of applications and demanding technical standards. This guide serves as a strategic roadmap for you as Applied Computing and Computer Science students to build a competitive presence that will make them stand out. It covers how you can develop  high-impact portfolio projects, contributions to open-source communities, networking strategies via Husky Handshake, and mastery of algorithmic interview patterns. The purpose of this document is to give you actionable steps for securing a back-end engineering role by demonstrating verified technical competency and architectural understanding.
 
 
 ## Showing Employers You Are Serious
 
 ### High Impact Portfolio Projects
-Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them you are a candidate that is capable of working with APIs, databases, and back-end systems.To do this:
+Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them that you are a candidate that is capable of working advanced  APIs, databases, and back-end systems. To do this:
 
-•**Select** two distinctive back-end problems, such as [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Real-Time Notification Service](https://www.geeksforgeeks.org/system-design-notification-service/), and develop a technical solution.
+Select two distinctive back-end problems, such as [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Real-Time Notification Service](https://www.geeksforgeeks.org/system-design-notification-service/), and develop a technical solution.
 
 
 
