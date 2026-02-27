@@ -75,4 +75,10 @@ Massive volumes of applications have led to employers increasing the technical d
 
 [2] Roadmap.sh, "50 Popular Backend Developer Interview Questions and Answers," Roadmap.sh, 2026. [Online]. Available: https://roadmap.sh/questions/backend. [Accessed: Jan. 24, 2026].
 
+[3] SAP, "What is an Applicant Tracking System (ATS)?" SAP Insights, 2024. [Online]. Available: https://www.sap.com/products/hcm/recruiting-software/what-is-an-applicant-tracking-system.html. [Accessed: Jan. 23, 2026].
+
+[4] Michigan Tech, "Talk to the Duck: The Rubber Duck Debugging Method," College of Computing Blog, Aug. 21, 2024. [Online]. Available: https://blogs.mtu.edu/computing/2024/08/21/talk-to-the-duck-the-rubber-duck-debugging-method/. [Accessed: Jan. 23, 2026].
+
+[5]	DWF, "System Design: Chapter 11 - Components," DWF Tech Docs, 2024. [Online]. Available: https://books.dwf.dev/docs/system-design/c11. [Accessed: Jan. 23, 2026].
+
 recalculate wordcount
