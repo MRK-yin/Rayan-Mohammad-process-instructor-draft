@@ -44,7 +44,7 @@ Identify active repositories on GitHub by filtering for issues using the [“goo
 ## Applying and Beyond
 
 ### Networking to Get In
-ATS (applicant tracking systems) have been integrated into most companies in order to automate the screening processes, eliminating majority of applicants before their applications receive human review [[3]](https://www.sap.com/products/hcm/recruiting-software/what-is-an-applicant-tracking-system.html). A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections, you should:
+ATS (applicant tracking systems) have been integrated into most companies in order to automate the screening processes, eliminating majority of applicants before their applications receive human review [[3]](https://www.sap.com/products/hcm/recruiting-software/what-is-an-applicant-tracking-system.html). A personal referral often ensures your application goes to a human recruiter, as it serves as a professional endorsement into the company. In order to build these connections,
 
 * Identify and connect with UW alumni and industry workers at local companies through [Husky Handshake](https://uw.joinhandshake.com/explore) and [Allen School Alumni](https://www.linkedin.com/school/uw-allen-school/people/).
 * Ask for a brief chat to discuss the company’s  culture, technical infrastructure, and back-end technology stack.
