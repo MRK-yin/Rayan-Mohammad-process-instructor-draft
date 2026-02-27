@@ -38,6 +38,7 @@ Select two distinctive back-end problems, For example building a [Scalable Authe
 
 ### Open Source Contributions
 Contributing to open source projects and communities shows recruiters that you can work in a professional collaborative setting. Your contributions to others projects and solving those problems highlight your ability to understand  others problems that aren't yours as well as being capable of collaborating with others, both skills which are sought in developers.
+
 Identify active repositories on GitHub by filtering for issues using the [“good first issue”](https://github.com/topics/good-first-issue) or [“help wanted”](https://github.com/topics/help-wanted) tags to find accessible entry points. From there submit pull requests for documentation fixes or minor bug resolves to demonstrate your collaborative problemsolving capabilties. 
 
 ## Applying and Beyond
