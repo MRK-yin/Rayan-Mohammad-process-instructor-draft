@@ -82,4 +82,6 @@ Figure 1: Algorithmic Interview Preparation Pyramid
 
 [5]	DWF, "System Design: Chapter 11 - Components," DWF Tech Docs, 2024. [Online]. Available: https://books.dwf.dev/docs/system-design/c11. [Accessed: Jan. 23, 2026].
 
+[6] U. Ahsen, informational interview, Jan 13 2026.
+
 recalculate wordcount
