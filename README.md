@@ -63,7 +63,7 @@ Massive volumes of applications have led to employers increasing the technical d
 ---
 
 ## Visual Process Roadmap
-<img width="1848" height="920" alt="image" src="https://github.com/user-attachments/assets/af20c6e7-5765-4eb3-af2c-b5c7057aa841" />
+<img width="569" height="587" alt="Screenshot 2026-02-27 at 8 11 34 AM" src="https://github.com/user-attachments/assets/fa95d489-8192-46b6-908f-eb31be41842f" />
 
 
 
