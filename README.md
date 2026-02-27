@@ -31,13 +31,13 @@ The entry-level software development market is currently filled with large amoun
 ### High Impact Portfolio Projects
 Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them that you are a candidate that is capable of working with advanced  APIs, databases, and back-end systems.
 
-Select two distinctive back-end problems, For example build [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Notification System](https://books.dwf.dev/docs/system-design/c11), and develop a technical solution.
+Select two distinctive back-end problems, For example building a [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Notification System](https://books.dwf.dev/docs/system-design/c11), and develop a technical solution.
 
 
 
 
 ### Open Source Contributions
-Contributing to open source projects and communities shows recruiters that you can work in a professional collaborative setting. Your contributions to others projects and solving those problems highlight your ability to understand  others problems that aren't yours as well as being capable of collaborating with others, both skills which are sought in developers. To do this:
+Contributing to open source projects and communities shows recruiters that you can work in a professional collaborative setting. Your contributions to others projects and solving those problems highlight your ability to understand  others problems that aren't yours as well as being capable of collaborating with others, both skills which are sought in developers.
 Identify active repositories on GitHub by filtering for issues using the [“good first issue”](https://github.com/topics/good-first-issue) or [“help wanted”](https://github.com/topics/help-wanted) tags to find accessible entry points. From there submit pull requests for documentation fixes or minor bug resolves to demonstrate your collaborative problemsolving capabilties. 
 
 ## Applying and Beyond
