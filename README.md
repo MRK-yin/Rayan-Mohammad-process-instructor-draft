@@ -1,5 +1,5 @@
 
-# The Path to a Back-End Engineering Role: A Roadmap for Applied Computing and Computer Science Students
+# Guide to land a Back-End Engineering Role: A Roadmap for Applied Computing and Computer Science Students
 
 **Prepared for:** Husky student pursuing a job as a Back-End Developer
 
