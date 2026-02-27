@@ -29,9 +29,9 @@ The entry-level software development market is currently filled with large amoun
 ## Showing Employers You Are Serious
 
 ### High Impact Portfolio Projects
-Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them that you are a candidate that is capable of working advanced  APIs, databases, and back-end systems. To do this:
+Personal projects show recruiters things like your willingness to take things from theory to application, work ethic outside of the classroom, and proof that you can execute concepts into practical products. Once recruiters see you have multiple projects in your portfolio, it shows them that you are a candidate that is capable of working with advanced  APIs, databases, and back-end systems.
 
-Select two distinctive back-end problems, such as [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Notification System](https://books.dwf.dev/docs/system-design/c11), and develop a technical solution.
+Select two distinctive back-end problems, For example build [Scalable Authentication System](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) or a [Notification System](https://books.dwf.dev/docs/system-design/c11), and develop a technical solution.
 
 
 
