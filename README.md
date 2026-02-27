@@ -11,12 +11,12 @@
 
 ## Table of Contents
 * [Purpose](#purpose)
-* [Showing Employers You Are Serious](#showing-employers-you-are-serious)
-* [High Impact Portfolio Projects](#high-impact-portfolio-projects)
-* [Open Source Contributions](#open-source-contributions)
-* [Applying and Beyond](#applying-and-beyond)
-* [Networking to Get In](#networking-to-get-in)
-* [Algorithmic Interview Proficiency](#algorithmic-interview-proficiency)
+* [Showing Employers You Are Serious](#Showing-Employers-You-Are-Serious)
+    * [High Impact Portfolio Projects](#high-impact-portfolio-projects)
+    * [Open Source Contributions](#Open-Source-Contributions)
+* [Applying and Beyond](#Applying-and-Beyond)
+    * [Networking to Get In](#Networking-to-Get-In)
+    * [Algorithmic Interview Proficiency](#Algorithmic-Interview-Proficiency)
 * [Visual Process Roadmap](#visual-process-roadmap)
 * [References](#references)
 
