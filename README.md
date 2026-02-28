@@ -64,7 +64,8 @@ Massive volumes of applications have led to employers increasing the technical d
 
 ## Visual Process Roadmap
 Figure 1: Algorithmic Interview Preparation Pyramid 
-https://media.discordapp.net/attachments/1471262356838547621/1476977593570955335/image.png?ex=69a3bed3&is=69a26d53&hm=ad47909c32bafb2a95b79111180d4f2669fa6ff80f407d1f73afbb90a5358878&=&format=webp&quality=lossless&width=1268&height=1308
+
+<img width="1728" height="2304" alt="image" src="https://github.com/user-attachments/assets/1a2f9abd-b18d-4906-96dd-0aa9f844648e" />
 
 
 
