@@ -64,6 +64,7 @@ Massive volumes of applications have led to employers increasing the technical d
 
 ## Visual Process Roadmap
 Figure 1: Algorithmic Interview Preparation Pyramid 
+This visual roadmap streamlines your interview prep by prioritizing core back-end data structures and interview readiness techniques  into a manageable, accessible workflow.
 
 <img width="1728" height="2304" alt="image" src="https://github.com/user-attachments/assets/1a2f9abd-b18d-4906-96dd-0aa9f844648e" />
 
@@ -85,4 +86,4 @@ Figure 1: Algorithmic Interview Preparation Pyramid
 
 [6] U. Ahsen, informational interview, Jan 13 2026.
 
-recalculate wordcount
+Word Count: 603
